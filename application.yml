@@ -35,7 +35,7 @@ eureka:
     prefer-ip-address: true    
 --- #环境分割线
 server:
-  port: 8000
+  port: 8001
   servlet:
     context-path: /
 spring:
